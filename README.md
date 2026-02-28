@@ -1,6 +1,6 @@
 
 
-# analytics
+# Analytics
 
 This repository contains visualizations and explanations for graphs generated in the Decodex project (CASE 01: STABILIS).
 
